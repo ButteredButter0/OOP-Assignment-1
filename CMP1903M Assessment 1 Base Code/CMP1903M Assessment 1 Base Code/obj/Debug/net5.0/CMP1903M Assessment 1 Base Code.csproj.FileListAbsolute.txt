@@ -1,0 +1,16 @@
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net5.0\CMP1903M Assessment 1 Base Code.exe
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net5.0\CMP1903M Assessment 1 Base Code.deps.json
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net5.0\CMP1903M Assessment 1 Base Code.runtimeconfig.json
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net5.0\CMP1903M Assessment 1 Base Code.runtimeconfig.dev.json
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net5.0\CMP1903M Assessment 1 Base Code.dll
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net5.0\ref\CMP1903M Assessment 1 Base Code.dll
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\bin\Debug\net5.0\CMP1903M Assessment 1 Base Code.pdb
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\CMP1903M Assessment 1 Base Code.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\CMP1903M Assessment 1 Base Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\CMP1903M Assessment 1 Base Code.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\CMP1903M Assessment 1 Base Code.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\CMP1903M Assessment 1 Base Code.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\CMP1903M Assessment 1 Base Code.dll
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\ref\CMP1903M Assessment 1 Base Code.dll
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\CMP1903M Assessment 1 Base Code.pdb
+C:\Users\Jamie\source\repos\CMP1903M Assessment 1 Base Code\CMP1903M Assessment 1 Base Code\obj\Debug\net5.0\CMP1903M Assessment 1 Base Code.genruntimeconfig.cache
