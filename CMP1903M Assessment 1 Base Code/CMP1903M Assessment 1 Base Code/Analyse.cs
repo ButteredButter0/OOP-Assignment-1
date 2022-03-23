@@ -30,7 +30,49 @@ namespace CMP1903M_Assessment_1_Base_Code
             }
 
 
+            foreach (char character in input)
+            {
+
+
+                //Calulcates sentences
+                //Checks against ascii values of '.', '?' and '!' respectively, as these indicate the end of a sentence
+                if (character == 46 | character == 63 | character == 33)
+                {
+                    values[0]++;
+                }
+                //All other checks in seperate 'else' block as if character is a punctuation mark, no further checks need to be made
+                else
+                {
+                    //Checks against ascii values of upper and lower case vowels
+                    if (character == 65 | character == 69 | character == 73 | character == 79 | character == 85 | character == 97 | character == 101 | character == 105 | character == 111 | character == 117)
+                    {
+                        values[1]++;
+                    }
+
+                    //Checks against all other ascii values of letters, checking for consonants by deduction
+                    else if ((character >= 65 && character <= 90) | (character >= 97 && character <= 122))
+                    {
+                        values[2]++;
+                    }
+
+                    //Checks against ascii values of upper case letters
+                    if (character >= 97 && character <= 122)
+                    {
+                        values[3]++;
+                    }
+
+                    //Checks against ascii values of lower case letters
+                    if ((character >= 65 && character <= 90))
+                    {
+                        values[4]++;
+                    }
+                }
+
+            }
+
+
             return values;
         }
+
     }
 }
